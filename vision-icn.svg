@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>vision-icn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="customers.mapbox.com" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vision-icn">
+            <rect id="Rectangle-Copy-20" fill="#017AFC" opacity="0.0481305804" x="0" y="0" width="36" height="36"></rect>
+            <circle id="Oval" stroke="#017AFC" stroke-width="2" cx="18" cy="18" r="10"></circle>
+            <path d="M13.7958137,15.2924462 C14.02007,15.8384369 14.5570913,16.222915 15.1839123,16.222915 C16.0123394,16.222915 16.6839123,15.5513421 16.6839123,14.722915 C16.6839123,14.1764345 16.3916762,13.6982095 15.9549553,13.4359909 C16.5792312,13.1558346 17.2714171,13 18,13 C20.7614237,13 23,15.2385763 23,18 C23,20.7614237 20.7614237,23 18,23 C15.2385763,23 13,20.7614237 13,18 C13,17.0022465 13.2922485,16.0727513 13.7958137,15.2924462 Z" id="Combined-Shape" fill="#017AFC"></path>
+        </g>
+    </g>
+</svg>

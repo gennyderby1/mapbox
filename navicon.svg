@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>nav-icn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="customers.mapbox.com" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-icn" fill="#017AFC">
+            <rect id="Rectangle-Copy-3" opacity="0.0481305804" x="0" y="0" width="36" height="36"></rect>
+            <path d="M11.3061064,23.3877872 L17.1055728,11.7888544 C17.3525621,11.2948759 17.9532351,11.0946515 18.4472136,11.3416408 C18.640741,11.4384045 18.7976635,11.595327 18.8944272,11.7888544 L24.6938936,23.3877872 C24.9408828,23.8817656 24.7406585,24.4824387 24.24668,24.7294279 C23.9702716,24.8676321 23.6454934,24.8702758 23.3668719,24.7365894 L18,22.1614913 L12.6331281,24.7365894 C12.1351944,24.9755047 11.5378603,24.7655289 11.298945,24.2675952 C11.1652586,23.9889737 11.1679022,23.6641956 11.3061064,23.3877872 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
